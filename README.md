@@ -1,6 +1,6 @@
 # LLM Architecture Interactive Learning Guide
 
-A framework-free bilingual static website for AI Course 103.
+A framework-free bilingual static website — an interactive guide to LLM architecture.
 
 ## Publish with GitHub Pages
 
